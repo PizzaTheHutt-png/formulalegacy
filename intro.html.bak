@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formula 1 - Introduction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #1E1E1E;
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        section {
+            margin: 50px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        .back-button {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .back-button a {
+            padding: 10px 20px;
+            background-color: #1E1E1E;
+            color: white;
+            border: none;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .back-button a:hover {
+            background-color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Introduction to Formula 1</h1>
+</header>
+
+<section>
+    <h2>What is Formula 1?</h2>
+    <p>Formula 1 (F1) is the highest class of international single-seater auto racing, governed by the Fédération Internationale de l'Automobile (FIA). It has been around since 1950 and is widely regarded as one of the most prestigious motorsport competitions in the world.</p>
+</section>
+
+<!-- Back Button to Home Page -->
+<div class="back-button">
+    <a href="index.html">Back to Home</a>
+</div>
+
+</body>
+</html>

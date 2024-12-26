@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun Facts About Formula 1</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header h1 {
+            font-weight: 700;
+        }
+
+        main {
+            padding: 20px;
+            flex: 1;
+            padding-bottom: 50px; /* Adds space at the bottom of the content */
+        }
+
+        h2 {
+            font-weight: 700;
+            font-size: 1.5em;
+            color: #333;
+        }
+
+        p {
+            font-weight: 400;
+            line-height: 1.6;
+            font-size: 1.1em;
+            color: #444;
+            margin-bottom: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Fun Facts About Formula 1</h1>
+</header>
+
+<main>
+    <section>
+        <h2>1. Formula 1 Cars Can Reach Extreme Speeds</h2>
+        <p>Formula 1 cars are among the fastest machines in the world. They can reach speeds of over <strong>230 mph (370 km/h)</strong> on certain tracks, thanks to their incredibly powerful engines and aerodynamic designs. The fastest-ever recorded top speed in an F1 race was <strong>231.4 mph (372.6 km/h)</strong> by <strong>Bar Honda</strong> at the <strong>2006 Italian Grand Prix</strong>.</p>
+    </section>
+
+    <section>
+        <h2>2. F1 Cars Accelerate Faster Than Commercial Airplanes</h2>
+        <p>The acceleration of an F1 car is astonishing. A Formula 1 car can accelerate from <strong>0 to 60 mph</strong> in just <strong>2.5 seconds</strong>, which is faster than most commercial jets during takeoff. The raw power and torque delivered by the hybrid engines give F1 cars extraordinary acceleration.</p>
+    </section>
+
+    <section>
+        <h2>3. The Fastest Pit Stops in the World</h2>
+        <p>Formula 1 pit stops are a thing of precision and speed. The fastest-ever pit stop recorded in F1 was by the <strong>Red Bull Racing team</strong> at the <strong>2019 Brazilian Grand Prix</strong>, with a time of just <strong>1.82 seconds</strong>. In a typical F1 stop, the team changes all four tires, refuels (before 2010), and makes any necessary adjustments—often in under 3 seconds. The level of coordination and precision required to achieve this is remarkable.</p>
+    </section>
+
+    <section>
+        <h2>4. Formula 1's Global Reach</h2>
+        <p>Formula 1 has one of the most global followings of any sport. The sport spans <strong>5 continents</strong> and visits around <strong>20-23 different countries</strong> each season. The sport has raced in some iconic and diverse locations, including places like <strong>Monaco</strong>, <strong>Singapore</strong>, <strong>Australia</strong>, <strong>Brazil</strong>, <strong>Malaysia</strong>, and <strong>the USA</strong>. The F1 calendar includes races across both modern cities and traditional racing venues like <strong>Silverstone</strong> in the UK and <strong>Monza</strong> in Italy.</p>
+    </section>
+
+    <section>
+        <h2>5. F1 Cars Are Highly Aerodynamic</h2>
+        <p>Aerodynamics is at the heart of Formula 1's design. The cars have special <strong>"ground effect"</strong> aerodynamics, meaning the flow of air over the car generates a significant amount of downforce that pushes the car toward the track. This downforce helps F1 cars maintain stability, especially during high-speed cornering. In fact, at certain speeds, an F1 car generates enough downforce to literally stick to the track like a suction cup. Some of the most significant aerodynamic features include the <strong>front and rear wings</strong>, <strong>bargeboards</strong>, and <strong>diffusers</strong>.</p>
+    </section>
+
+    <section>
+        <h2>6. F1 Drivers Endure Extreme Physical Strain</h2>
+        <p>F1 drivers undergo intense physical and mental preparation. During a race, drivers can lose <strong>up to 4 kg (9 lbs)</strong> in sweat alone, due to the high temperatures inside the car and the physical demands of driving. They experience forces of up to <strong>5G</strong> during sharp turns and braking, which requires immense strength and stamina. To stay in peak condition, drivers often follow strict fitness regimens that include cardio, strength training, and neck exercises to withstand the forces of the race.</p>
+    </section>
+
+    <section>
+        <h2>7. Formula 1 Teams Spend Huge Amounts of Money</h2>
+        <p>Formula 1 is one of the most expensive sports in the world. The top teams like <strong>Mercedes</strong>, <strong>Ferrari</strong>, and <strong>Red Bull Racing</strong> spend well over <strong>$200 million per year</strong> on car development, research, staff, and race logistics. In fact, <strong>Ferrari</strong>'s budget can surpass <strong>$450 million</strong>, making it one of the most expensive teams. This immense investment helps develop the cutting-edge technology that F1 is known for.</p>
+    </section>
+
+    <section>
+        <h2>8. Formula 1’s Influence on Consumer Cars</h2>
+        <p>F1 technology often filters down to consumer cars. Many innovations developed for F1 have been adapted for use in everyday cars. These include <strong>carbon fiber materials</strong>, which were first used in F1 cars to make them lightweight and strong, and now appear in road cars like <strong>BMW's M series</strong> and <strong>McLaren's production cars</strong>. F1 also pioneered the use of <strong>hybrid engines</strong> in motorsport, leading to improvements in fuel efficiency and sustainability in commercial vehicles.</p>
+    </section>
+
+    <section>
+        <h2>9. The FIA and Safety Innovations</h2>
+        <p>The <strong>FIA</strong> (Fédération Internationale de l'Automobile) is responsible for regulating F1 and ensuring that it is as safe as possible. Thanks to the FIA’s continuous work, F1 has seen huge improvements in safety, including the introduction of the <strong>HANS (Head and Neck Support) device</strong> and <strong>stronger crash barriers</strong>. The <strong>halo device</strong>, a protective bar in front of the driver's head, was introduced in 2018 and has saved several lives by protecting drivers from potential head injuries during accidents.</p>
+    </section>
+
+    <section>
+        <h2>10. Formula 1’s Record for Closest Finishes</h2>
+        <p>Formula 1 has witnessed some of the closest finishes in sports history. One of the closest ever finishes came at the <strong>1971 Italian Grand Prix</strong>, where <strong>Peter Gethin</strong> won by just <strong>0.01 seconds</strong>—the closest in F1 history. The 2019 <strong>Brazilian Grand Prix</strong> also featured a thrilling finish, with <strong>Max Verstappen</strong> securing a victory by less than <strong>1 second</strong> over the second-place driver.</p>
+    </section>
+
+    <section>
+        <h2>11. The Iconic Monaco Grand Prix</h2>
+        <p>The <strong>Monaco Grand Prix</strong> is one of the most famous and glamorous races in the world. It's known for its narrow, winding streets and luxurious atmosphere. Racing in the streets of Monte Carlo is challenging due to the tight corners and lack of runoff areas, making it a test of skill and precision. It’s a race that has a special place in the history of F1, with legendary drivers like <strong>Ayrton Senna</strong>, <strong>Alain Prost</strong>, and <strong>Lewis Hamilton</strong> claiming victories there. The Monaco GP is one of the few races where pole position is critical to success, as overtaking is so difficult.</p>
+    </section>
+
+    <section>
+        <h2>12. Longest Race in F1 History</h2>
+        <p>The longest Formula 1 race in history took place at the <strong>2011 Canadian Grand Prix</strong> in Montreal, which lasted for a total of <strong>4 hours, 4 minutes, and 39 seconds</strong>. This was due to heavy rain delays, which caused the race to be stopped and restarted multiple times. It was an unforgettable race that saw <strong>Jenson Button</strong> claim victory in a thrilling last-lap battle with <strong>Sebastian Vettel</strong>.</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Formula 1 History. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

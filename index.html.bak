@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formula 1 Racing - Cool Facts</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #1E1E1E;
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        nav {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        nav a {
+            display: block;
+            margin: 20px;
+            font-size: 36px;
+            font-weight: bold;
+            color: #1E1E1E;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        nav a:hover {
+            color: #333;
+        }
+
+        section {
+            margin: 50px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        .fact {
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border-left: 5px solid #333;
+        }
+
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .button-container button {
+            padding: 10px 20px;
+            background-color: #1E1E1E;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .button-container button:hover {
+            background-color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Formula 1 Racing - Cool Facts</h1>
+    <p>Explore the exciting world of Formula 1 racing by selecting an article below!</p>
+</header>
+
+<!-- Home Screen with Navigation Links -->
+<nav>
+    <a href="#intro">Introduction</a>
+    <a href="#history">History</a>
+    <a href="#fun-facts">Fun Facts</a>
+</nav>
+
+<!-- Introduction Section -->
+<section id="intro">
+    <h2>Introduction to Formula 1</h2>
+    <p>Formula 1 (F1) is the highest class of international single-seater auto racing, governed by the Fédération Internationale de l'Automobile (FIA). It has been around since 1950 and is widely regarded as one of the most prestigious motorsport competitions in the world.</p>
+</section>
+
+<!-- History Section -->
+<section id="history">
+    <h2>Key Events in Formula 1 History</h2>
+    <ul>
+        <li><strong>1950 – The Birth of Formula 1:</strong> The first Formula 1 World Championship took place in 1950. The inaugural race, the British Grand Prix at Silverstone, marked the beginning of the series.</li>
+        <li><strong>1950s-1960s – Dominance of Italian Teams:</strong> During this period, Ferrari and Maserati were the leading teams. Juan Manuel Fangio of Argentina won five World Championships between 1951 and 1957.</li>
+        <li><strong>1960s – The Introduction of Innovation:</strong> This era saw the introduction of new technology, like the rear-engine car, which revolutionized the sport. Teams like Lotus and Ferrari led the way in innovation.</li>
+        <li><strong>1970s – The Rise of Safety:</strong> With increasing accidents, safety became a focal point. The tragic deaths of drivers like Jochen Rindt and Jackie Stewart led to major safety reforms and a focus on driver protection.</li>
+        <li><strong>1980s – Turbo Era:</strong> The 1980s were marked by the introduction of turbocharged engines, which made cars faster and more powerful. Teams like McLaren and Ferrari were dominant.</li>
+        <li><strong>1990s – Schumi and Senna:</strong> Michael Schumacher emerged as one of the sport’s greatest drivers, winning 7 World Championships. Ayrton Senna, another iconic driver, tragically lost his life at the 1994 San Marino Grand Prix.</li>
+        <li><strong>2000s – Ferrari's Domination:</strong> Michael Schumacher, driving for Ferrari, won five consecutive titles from 2000 to 2004, solidifying Ferrari’s dominance in the sport.</li>
+        <li><strong>2010s – The Mercedes Era:</strong> Lewis Hamilton and Mercedes dominated the 2010s, winning multiple World Championships, particularly from 2014 onward, thanks to their performance and technological advancements.</li>
+        <li><strong>2020s – New Challenges and Young Drivers:</strong> The new generation of drivers, including Max Verstappen and Charles Leclerc, are challenging the old guard, with Formula 1 evolving to meet new technological and environmental demands.</li>
+    </ul>
+</section>
+
+<!-- Fun Facts Section -->
+<section id="fun-facts">
+    <h2>Fun Facts About F1</h2>
+    <div class="fact">
+        <strong>Fact 1:</strong> The fastest F1 car ever recorded was the 2005 Ferrari F2004, which reached a top speed of 372 km/h (231 mph) at the Italian Grand Prix.
+    </div>
+    <div class="fact">
+        <strong>Fact 2:</strong> F1 cars can go from 0 to 100 km/h in just 2.6 seconds!
+    </div>
+    <div class="fact">
+        <strong>Fact 3:</strong> The Monaco Grand Prix is one of the most prestigious races in the F1 calendar, known for its challenging street circuit.
+    </div>
+    <div class="fact">
+        <strong>Fact 4:</strong> F1 drivers experience up to 5 G-forces while cornering at high speeds.
+    </div>
+</section>
+
+<div class="button-container">
+    <button onclick="alert('Stay tuned for more exciting F1 facts!')">Get More Facts!</button>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formula 1 History</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #1E1E1E;
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        nav {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        nav a {
+            display: block;
+            margin: 20px;
+            font-size: 36px;
+            font-weight: bold;
+            color: #1E1E1E;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        nav a:hover {
+            color: #333;
+        }
+
+        .back-button {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .back-button a {
+            padding: 10px 20px;
+            background-color: #1E1E1E;
+            color: white;
+            border: none;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .back-button a:hover {
+            background-color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Formula 1 History</h1>
+    <p>Explore the rich history of Formula 1 by selecting a decade below!</p>
+</header>
+
+<nav>
+    <a href="history-1950s.html">1950s</a>
+    <a href="history-1960s.html">1960s</a>
+    <a href="history-1970s.html">1970s</a>
+    <a href="history-1980s.html">1980s</a>
+    <a href="history-1990s.html">1990s</a>
+    <a href="history-2000s.html">2000s</a>
+    <a href="history-2010s.html">2010s</a>
+    <a href="history-2020s.html">2020s</a>
+</nav>
+
+<div class="back-button">
+    <a href="index.html">Back to Home</a>
+</div>
+
+</body>
+</html>
